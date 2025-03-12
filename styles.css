@@ -8,15 +8,11 @@ body {
 
 
 .lin{
-
 position: relative;
 left: 640px;
 bottom: 1460px;
 pointer-events: none;
 }
-
-
-
 
 
 
@@ -30,28 +26,6 @@ pointer-events: none;
 .nav-links {
     display: none;
 }
-
-/* .nav-links {
-    display: none;
-}
-
-.nav-links.active {
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    top: 50px;
-    left: 10px;
-    background: white;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
- */
-
-
-
-
 
 
 
@@ -76,14 +50,6 @@ pointer-events: none;
       top: 100px;
     }
   }
-
-
-
-
-
-
-
-
 
 
 .container {
@@ -172,14 +138,6 @@ img {
                 drop-shadow(0 0 60px rgba(0, 165, 255, 1));
     }
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -333,17 +291,6 @@ img {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 .rest1{
 position: relative;
 bottom: 470px;
@@ -390,21 +337,6 @@ bottom: 970px;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .copu {
     display: flex;
     justify-content: center;
@@ -429,28 +361,6 @@ bottom: 970px;
     max-width: 250px;
     height: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -492,11 +402,6 @@ bottom: 970px;
 
 /* 
 конец */
-
-
-
-
-
 
 
 
@@ -574,11 +479,6 @@ bottom: 970px;
 
 
 
-
-
-
-
-
 .items h5 {
     font-size: 34px;
     margin-top: 10px;
@@ -623,9 +523,6 @@ bottom: 970px;
     left: 1040px;
     width: 90px;
 }
-
-
-
 
 
 
